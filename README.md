@@ -1,16 +1,16 @@
 # AI-Dashboard-IPL
 Interactive IPL Dashboard using Streamlit, Pandas, and Plotly
 
-##📌 Project Overview
+📌 Project Overview
 This project is an interactive AI Dashboard built using Streamlit, Pandas, and Plotly. The dashboard analyzes IPL (Indian Premier League) match data from 2008 to 2022 and provides useful insights through charts, metrics, and interactive filters.
 
-##🎯 Objectives
+🎯 Objectives
 - Analyze IPL match data.
 - Visualize team and player performance.
 - Identify trends across different IPL seasons.
 - Provide an interactive dashboard experience.
 
-##📊 Dataset Information
+📊 Dataset Information
 Dataset: IPL Matches 2008–2022
 
 Features include:
