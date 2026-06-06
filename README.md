@@ -1,16 +1,22 @@
 # AI-Dashboard-IPL
 Interactive IPL Dashboard using Streamlit, Pandas, and Plotly
 
-📌 Project Overview
+# 🏏 IPL AI Dashboard
+
+## 📌 Project Overview
+
 This project is an interactive AI Dashboard built using Streamlit, Pandas, and Plotly. The dashboard analyzes IPL (Indian Premier League) match data from 2008 to 2022 and provides useful insights through charts, metrics, and interactive filters.
 
-🎯 Objectives
+
+## 🎯 Objectives
+
 - Analyze IPL match data.
 - Visualize team and player performance.
 - Identify trends across different IPL seasons.
 - Provide an interactive dashboard experience.
 
-📊 Dataset Information
+## 📊 Dataset Information
+
 Dataset: IPL Matches 2008–2022
 
 Features include:
@@ -27,6 +33,8 @@ Features include:
 - Player of the Match
 
 Total Records: 950
+
+Total Columns: 20
 
 ## ✨ Features
 
@@ -61,6 +69,7 @@ Total Records: 950
 - Player achievements
 - Season-wise match distribution
 
+
 ## 🛠 Technologies Used
 
 - Python
@@ -83,6 +92,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+
 ## 📸 Screenshots
 
 Screenshots of the dashboard are available in the `screenshots` folder.
@@ -94,6 +104,4 @@ Screenshots of the dashboard are available in the `screenshots` folder.
 - Mumbai Indians and Chennai Super Kings are among the most successful teams.
 - Certain venues host a large number of matches.
 - A few players consistently dominate the Player of the Match awards.
-- Toss results show interesting patterns across seasons
-
-Data Science & AI/ML Internship – Week 2 Final Assignment
+- Toss results show interesting patterns across seasons.
